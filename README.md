@@ -11,6 +11,6 @@ My true calling lies at the crossroads of technology and art. I delve into digit
 - **3D Graphics:** GLSL, OpenGL, Metal, WebGL, GPU pipeline, linear algebra 
 - **Creative Coding:** Processing/P5.js, TouchDesigner, WebGL, Open Frameworks, Custom Python, Audio DSP 
 - **Motion Graphics:** Blender, Houdini, After Effects 
-- **Electronics:** Arduino, Raspberry PI/Pico, ARM Cortex-M, Bare Metal, KiCad
+- **Electronics:** Arduino, Raspberry PI/Pico, ARM (STM32), Bare Metal, KiCad
 
 Check out my projects, where technology meets art, creating unique experiences that resonate with audiences on a profound level.
